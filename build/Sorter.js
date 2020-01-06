@@ -1,4 +1,5 @@
 "use strict";
+// import { NumberCollection } from './NumbersCollection';
 Object.defineProperty(exports, "__esModule", { value: true });
 var Sorter = /** @class */ (function () {
     function Sorter(collection) {
